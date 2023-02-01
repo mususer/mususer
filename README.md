@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muskan Sharma</h1>
 <h3 align="center">Aspiring Devops Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🌱 I’m currently learning **Devops tools,AWS**
 
