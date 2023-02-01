@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muskan Sharma</h1>
 <h3 align="center">Aspiring Devops Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fdisp%2F601014116770475.6068beff4640a.gif&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&tbnid=Ayf1SYgO6GGXAM&vet=12ahUKEwj9w66N9fP8AhUy_jgGHQGeC68QMygLegUIARCXAg..i&docid=hkdl7LLQcswitM&w=500&h=350&q=animated%20coding%20gif%20women&ved=2ahUKEwj9w66N9fP8AhUy_jgGHQGeC68QMygLegUIARCXAg">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **Devops tools,AWS**
 
