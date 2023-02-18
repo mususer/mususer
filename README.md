@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muskan Sharma</h1>
-<h3 align="center">Aspiring Devops Engineer from India</h3>
+<h3 align="center">Linux System Administrator from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🌱 I’m currently learning **Devops tools,AWS**
+- 🌱 I’m currently learning **Devops tools**
 
-- 💬 Ask me about **Ansible, Linux**
+- 💬 Ask me about **AWS, Ansible, Linux, Python**
 
 - 📫 How to reach me **sharmamusky75@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I have sarcastic humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
